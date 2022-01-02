@@ -1,0 +1,13 @@
+.cart-div{
+    overflow: hidden;
+    width: 50%;
+    margin: 0 auto;
+    background-color:#146356;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    position:sticky;
+    top: 0;
+    color:#0F0E0E;
+
+}

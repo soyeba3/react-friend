@@ -1,0 +1,26 @@
+.user-div{
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid green;
+    width: 50%;
+    border-radius: 5px;
+    background-color: lightseagreen;
+
+}
+.picture-div{
+    margin-right: 20px;
+    padding: 20px;
+}
+.picture-div img {
+    border-radius: 50%;
+}
+.add-btn{
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: indigo;
+    border-radius: 5px;
+}
